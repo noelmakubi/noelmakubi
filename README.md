@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noel Makubi</h1>
-<h3 align="center">A passionate software developer from Tanzania.</h3>
+<h3 align="center">A passionate software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noelmakubi&label=Profile%20views&color=0e75b6&style=flat" alt="noelmakubi" /> </p>
 
