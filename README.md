@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/noel___mak" target="blank"><img src="https://img.shields.io/twitter/follow/noel___mak?logo=twitter&style=for-the-badge" alt="noel___mak" /></a> </p>
 
-- 🔭 I’m currently working on **campusKonekti projects & personal projects**
+- 🔭 I’m currently working on **DuniaDigital projects & personal projects**
 
 - 🌱 I’m currently learning **blockchain Technology & Robotics**
 
