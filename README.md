@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate a
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=noelmakubi&theme=darkhub)](https://github.com/noelmakubi)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelmakubi&theme=dark)](https://git.io/streak-stats)
 
 ## GitHub Stats
 
@@ -19,7 +20,6 @@ Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate a
 
 ## Contributions in the Last Year
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelmakubi&theme=dark)](https://git.io/streak-stats)
 
 ## Contribution Graph
 
