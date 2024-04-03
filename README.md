@@ -1,8 +1,4 @@
 
-## Visitors
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=noelmakubi)
-
 # Noel Makubi - Software Developer
 
 Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate about building innovative solutions.
@@ -12,6 +8,11 @@ Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate a
 - 💻 I have been coding since 2019, specializing in [insert your areas of expertise here].
 - 🌱 I'm constantly learning and exploring new technologies to expand my skill set.
 - 🎓 Graduated with a degree in [insert your degree here] from [insert your university here].
+
+
+## Visitors
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=noelmakubi)
 
 ## Trophies
 
