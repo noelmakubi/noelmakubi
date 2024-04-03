@@ -8,6 +8,11 @@ Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate a
 - 🌱 I'm constantly learning and exploring new technologies to expand my skill set.
 - 🎓 Graduated with a degree in [insert your degree here] from [insert your university here].
 
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=noelmakubi&theme=darkhub)](https://github.com/noelmakubi)
+
+
 ## GitHub Stats
 
 [![Noel Makubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelmakubi&show_icons=true&theme=dark)](https://github.com/noelmakubi)
@@ -20,9 +25,6 @@ Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate a
 
 [![Noel Makubi's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=noelmakubi&theme=github&hide_border=true)](https://github.com/noelmakubi)
 
-## Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=noelmakubi&theme=darkhub)](https://github.com/noelmakubi)
 
 ## Visitors
 
