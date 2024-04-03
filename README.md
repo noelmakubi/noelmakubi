@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate a
 - 🌱 I'm constantly learning and exploring new technologies to expand my skill set.
 - 🎓 Graduated with a degree in [insert your degree here] from [insert your university here].
 
-
 ## Visitors
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=noelmakubi)
@@ -32,5 +31,4 @@ Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate a
 
 
 ## Get in Touch
-
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or [Twitter](https://twitter.com/your-twitter-handle)!
