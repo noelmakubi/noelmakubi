@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate a
 
 - 💻 I have been coding since 2019, specializing Web Developments & AI tools development.
 - 🌱 I'm constantly learning and exploring new technologies to expand my skill set.
-- 🎓 Graduated with a degree in Information System Mannaagement 
+- 🎓 I have knowledge concerned Information System Management 
 
 ## Visitors
 
