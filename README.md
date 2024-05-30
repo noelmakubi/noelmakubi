@@ -4,29 +4,45 @@ Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate a
 
 ## About Me
 
-- 💻 I have been coding since 2019, specializing in Web Development and AI tools development.
-- 🌱 I'm constantly learning and exploring new technologies to expand my skill set.
-- 🎓 I have knowledge in Information System Management.
+Hello! I'm **Noel Makubi**, a dedicated and enthusiastic software developer with a strong passion for technology and innovation. My journey in coding began in 2019, and since then, I've been committed to expanding my skills and knowledge in various domains, particularly in web development and AI tools development.
+
+### A Few Highlights:
+- 🎯 **Focused Expertise:** Specializing in building robust web applications and developing cutting-edge AI tools to solve real-world problems.
+- 🌍 **Continuous Learner:** Always exploring new technologies and methodologies to stay at the forefront of the tech industry.
+- 🎓 **Educational Background:** Equipped with a solid foundation in Information System Management, which empowers me to blend technical skills with strategic insights.
+- 🤝 **Community Contributor:** Actively contributing to open-source projects and engaging with the developer community to share knowledge and collaborate on exciting projects.
+
+### My Core Values:
+- **Innovation:** Constantly seeking creative solutions to complex challenges.
+- **Collaboration:** Valuing teamwork and the power of collective intelligence.
+- **Integrity:** Upholding the highest standards of ethics and professionalism in all endeavors.
+- **Growth:** Embracing opportunities for personal and professional development.
+
+### My Tech Stack:
+- **Languages:** HTML, CSS, JavaScript, PHP, Python, Dart, C++
+- **Tools:** VS Code, TensorFlow, Git
+
+I believe that technology has the power to transform lives and create a better future. Through my work, I strive to make a positive impact and contribute to the advancement of the tech industry.
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on any projects or just have a chat about technology!
+
+---
 
 ## Tools and Languages
 
 ### Languages
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Tools
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Visitors
 
