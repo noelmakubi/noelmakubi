@@ -71,4 +71,4 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 <!--END_SECTION:activity-->
 
 ## Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or [Twitter](https://twitter.com/your-twitter-handle)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/noel-makubi-2127911aa/) or [Twitter](https://twitter.com/Noel___Mak)!
