@@ -6,17 +6,10 @@ Welcome to my GitHub profile! I'm Noel Makubi, a software developer passionate a
 
 Hello! I'm **Noel Makubi**, a dedicated and enthusiastic software developer with a strong passion for technology and innovation. My journey in coding began in 2019, and since then, I've been committed to expanding my skills and knowledge in various domains, particularly in web development and AI tools development.
 
-### A Few Highlights:
-- 🎯 **Focused Expertise:** Specializing in building robust web applications and developing cutting-edge AI tools to solve real-world problems.
-- 🌍 **Continuous Learner:** Always exploring new technologies and methodologies to stay at the forefront of the tech industry.
-- 🎓 **Educational Background:** Equipped with a solid foundation in Information System Management, which empowers me to blend technical skills with strategic insights.
-- 🤝 **Community Contributor:** Actively contributing to open-source projects and engaging with the developer community to share knowledge and collaborate on exciting projects.
-
-### My Core Values:
-- **Innovation:** Constantly seeking creative solutions to complex challenges.
-- **Collaboration:** Valuing teamwork and the power of collective intelligence.
-- **Integrity:** Upholding the highest standards of ethics and professionalism in all endeavors.
-- **Growth:** Embracing opportunities for personal and professional development.
+- 💡 **Focused Expertise:** Specializing in robust web apps and cutting-edge AI solutions.
+- 🌱 **Continuous Learner:** Always exploring new tech to stay ahead.
+- 🎓 **Education:** Information System Management background with a tech twist.
+- 🤝 **Community Contributor:** Love collaborating on open-source projects.
 
 ### My Tech Stack:
 - **Languages:** HTML, CSS, JavaScript, PHP, Python, Dart, C++
