@@ -65,10 +65,6 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 [![Noel Makubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelmakubi&show_icons=true&theme=dark)](https://github.com/noelmakubi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelmakubi&layout=compact&theme=dark)](https://github.com/noelmakubi)
 
-## Contribution Graph
-
-[![Noel Makubi's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=noelmakubi&theme=github&hide_border=true)](https://github.com/noelmakubi)
-
 ## Recent Activity
 
 <!--START_SECTION:activity-->
