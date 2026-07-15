@@ -29,6 +29,8 @@ Dedicated software developer with a passion for building innovative web applicat
 
 ### Frontend & Backend
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -38,6 +40,8 @@ Dedicated software developer with a passion for building innovative web applicat
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### AI & Machine Learning
 
@@ -104,16 +108,20 @@ Dedicated software developer with a passion for building innovative web applicat
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Project 1** | Description of your first project | Tech stack used |
-| **Project 2** | Description of your second project | Tech stack used |
-| **Project 3** | Description of your third project | Tech stack used |
+| [**DukaPro**](https://github.com/noelmakubi/DukaPro) | Mobile POS and inventory management application for small businesses | React Native, Expo, Supabase |
+| [**PesaPosApp**](https://github.com/noelmakubi/PesaPosApp) | Point-of-sale mobile application with camera and file system integration | React Native, Expo, Supabase |
+| [**sale_agent**](https://github.com/noelmakubi/sale_agent) | Intelligent autonomous AI sales assistant that finds and qualifies potential customers | Python, OpenAI, Playwright, Redis |
+| [**PayPesa**](https://github.com/noelmakubi/PayPesa) | Payment gateway for Tanzania mobile money (M-Pesa, Airtel Money) | Node.js, Snippe.sh, JWT |
+| [**swahili-Chatbot-RuleBased**](https://github.com/noelmakubi/swahili-Chatbot-RuleBased) | Rule-based Swahili chatbot using NLP and similarity matching | Python, NLTK |
+| [**Django_Pos**](https://github.com/noelmakubi/Django_Pos) | Web-based point-of-sale system | Django, Python |
 
 ---
 
 ## Currently
 
-- **Building:** Web applications with Laravel and FastAPI
-- **Exploring:** AI/ML integration in web solutions
+- **Building:** Mobile applications with React Native and Expo
+- **Building:** Web backends with Laravel and FastAPI
+- **Exploring:** AI/ML integration in web and mobile solutions
 - **Open to:** Collaboration on open-source projects
 - **Available for:** Software development opportunities
 
