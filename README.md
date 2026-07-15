@@ -1,4 +1,6 @@
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ### Hi, I'm Noel Makubi <img src="https://raw.githubusercontent.com/kaieinl/kaieinl/main/wave.gif" width="30">
 
@@ -9,7 +11,14 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/255682633877)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/noelmakubi)
 
-</div>
+</td>
+<td width="50%" align="right">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="350" alt="Snake animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
