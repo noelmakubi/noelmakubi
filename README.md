@@ -1,84 +1,120 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Noel+Makubi&fontSize=80&fontColor=ffffff&animation=fadeIn">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Noel+Makubi&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%"/>
-</a>
+### Hi, I'm Noel Makubi <img src="https://raw.githubusercontent.com/kaieinl/kaieinl/main/wave.gif" width="30">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Building+Apps+%26+AI+Solutions;Laravel+%7C+FastAPI+%7C+React+Native&center=true&width=600&height=100&color=36BCF7&vCenter=true&size=22&duration=3000&pause=1000&repeat=true" alt="Typing SVG" width="600"/>
-</a>
+**Software Developer | Mobile & Web Applications | AI Solutions**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noel-makubi-2127911aa/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NoelMakubi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/255682633877)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/noelmakubi)
 
 </div>
 
 ---
 
-## About Me
+<details open>
+<summary><b>About Me</b></summary>
+<br>
 
-Dedicated software developer with a passion for building innovative web applications and AI-powered solutions. My coding journey began in 2022, and I have since developed expertise in full-stack development and machine learning implementations.
+Dedicated software developer with a passion for building innovative web applications and AI-powered solutions. My coding journey began in 2022, and I have since developed expertise in full-stack development, mobile applications, and machine learning implementations.
 
 - **Specialization:** Robust web applications and AI solutions
 - **Education:** Information System Management
 - **Focus:** Continuous learning and technology exploration
 - **Interests:** Open-source collaboration and community contribution
 
+</details>
+
 ---
 
-<details>
-<summary><b>Tech Stack (click to expand)</b></summary>
+<details open>
+<summary><b>Tech Stack</b></summary>
+<br>
 
 <div align="center">
 
-### Languages
+**Languages**
 
-[![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
-[![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
-[![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-[![Dart](https://skillicons.dev/icons?i=dart&theme=dark)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Frontend & Backend
+**Frontend & Backend**
 
-[![React Native](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
-[![Expo](https://skillicons.dev/icons?i=expo&theme=dark)](https://skillicons.dev)
-[![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://skillicons.dev)
-[![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://skillicons.dev)
-[![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://skillicons.dev)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://skillicons.dev)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-### Databases
+**Databases**
 
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
-[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://skillicons.dev)
-[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### AI & Machine Learning
+**AI & Machine Learning**
 
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### DevOps & Cloud
+**DevOps & Cloud**
 
-[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
-[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon%20aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Tools
+**Tools**
 
-[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali%20linux&logoColor=white)
 
 </div>
+</details>
+
+---
+
+<details open>
+<summary><b>Featured Projects</b></summary>
+<br>
+
+| | Project | Description | Technologies |
+|---|---------|-------------|--------------|
+| :iphone: | [**PesaPos**](https://github.com/noelmakubi/PesaPosApp) | Point-of-sale mobile application with camera and file system integration | React Native, Expo, Supabase |
+| :robot: | [**Midas_sales_agents**](https://github.com/noelmakubi/sale_agent) | Intelligent autonomous AI sales assistant that finds and qualifies potential customers | Python, OpenAI, Playwright, Redis |
+| :credit_card: | [**PayPesa**](https://github.com/noelmakubi/PayPesa) | Payment gateway for Tanzania mobile money (M-Pesa, Airtel Money, Mixx By Yas) | Node.js, Snippe.sh, JWT |
+| :desktop_computer: | [**Django_Pos**](https://github.com/noelmakubi/Django_Pos) | Web-based point-of-sale system | Django, Python |
 
 </details>
 
 ---
 
-## GitHub Streak
+<details open>
+<summary><b>What I'm Working On</b></summary>
+<br>
+
+- Building mobile applications with React Native and Expo
+- Building web backends with Laravel, FastAPI and DRF
+- Exploring AI/ML integration in web and mobile solutions
+- Open to collaboration on open-source projects
+- Available for software development opportunities
+
+</details>
+
+---
+
+<details>
+<summary><b>GitHub Streak</b></summary>
+<br>
 
 <div align="center">
 
@@ -87,10 +123,13 @@ Dedicated software developer with a passion for building innovative web applicat
 </a>
 
 </div>
+</details>
 
 ---
 
-## Activity Graph
+<details open>
+<summary><b>Activity Graph</b></summary>
+<br>
 
 <div align="center">
 
@@ -99,40 +138,7 @@ Dedicated software developer with a passion for building innovative web applicat
 </a>
 
 </div>
-
----
-
-## Featured Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [**PesaPos**](https://github.com/noelmakubi/PesaPosApp) | Point-of-sale mobile application with camera and file system integration | React Native, Expo, Supabase |
-| [**Midas_sales_agents**](https://github.com/noelmakubi/sale_agent) | Intelligent autonomous AI sales assistant that finds and qualifies potential customers | Python, OpenAI, Playwright, Redis |
-| [**PayPesa**](https://github.com/noelmakubi/PayPesa) | Payment gateway for Tanzania mobile money (M-Pesa, Airtel Money, Mixx By Yas) | Node.js, Snippe.sh, JWT |
-| [**Django_Pos**](https://github.com/noelmakubi/Django_Pos) | Web-based point-of-sale system | Django, Python |
-
----
-
-## Currently
-
-- **Building:** Mobile applications with React Native and Expo
-- **Building:** Web backends with Laravel, FastAPI and DRF
-- **Exploring:** AI/ML integration in web and mobile solutions
-- **Open to:** Collaboration on open-source projects
-- **Available for:** Software development opportunities
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noel-makubi-2127911aa/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NoelMakubi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255682633877)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noelmakubi)
-
-</div>
+</details>
 
 ---
 
