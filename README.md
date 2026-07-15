@@ -67,8 +67,12 @@ Dedicated software developer with a passion for building innovative web applicat
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noelmakubi&show_icons=true&theme=dark&hide_border=true)](https://github.com/noelmakubi)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noelmakubi&layout=compact&theme=dark&hide_border=true)](https://github.com/noelmakubi)
+<a href="https://github.com/noelmakubi">
+<img src="https://github-readme-stats.vercel.app/api?username=noelmakubi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
+</a>
+<a href="https://github.com/noelmakubi">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelmakubi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</a>
 
 </div>
 
@@ -78,7 +82,9 @@ Dedicated software developer with a passion for building innovative web applicat
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noelmakubi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noelmakubi&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+</a>
 
 </div>
 
@@ -88,7 +94,9 @@ Dedicated software developer with a passion for building innovative web applicat
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=noelmakubi&theme=darkhub&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=noelmakubi&theme=radical&no-frame=true&column=7&margin-w=15" alt="Trophies"/>
+</a>
 
 </div>
 
@@ -98,7 +106,9 @@ Dedicated software developer with a passion for building innovative web applicat
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noelmakubi&theme=dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noelmakubi&theme=redical&hide_border=true" alt="Activity Graph" width="100%"/>
+</a>
 
 </div>
 
@@ -141,6 +151,8 @@ Dedicated software developer with a passion for building innovative web applicat
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=noelmakubi)
+<a href="https://visitor-badge.laobi.icu/badge?page_id=noelmakubi">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=noelmakubi" alt="Visitor Count"/>
+</a>
 
 </div>
