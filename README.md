@@ -118,7 +118,6 @@ Dedicated software developer with a passion for building innovative web applicat
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [**DukaPro**](https://github.com/noelmakubi/DukaPro) | Mobile POS and inventory management application for small businesses | React Native, Expo, Supabase |
 | [**PesaPosApp**](https://github.com/noelmakubi/PesaPosApp) | Point-of-sale mobile application with camera and file system integration | React Native, Expo, Supabase |
 | [**sale_agent**](https://github.com/noelmakubi/sale_agent) | Intelligent autonomous AI sales assistant that finds and qualifies potential customers | Python, OpenAI, Playwright, Redis |
 | [**PayPesa**](https://github.com/noelmakubi/PayPesa) | Payment gateway for Tanzania mobile money (M-Pesa, Airtel Money) | Node.js, Snippe.sh, JWT |
