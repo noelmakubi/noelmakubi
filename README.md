@@ -119,9 +119,8 @@ Dedicated software developer with a passion for building innovative web applicat
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [**PesaPos**](https://github.com/noelmakubi/PesaPosApp) | Point-of-sale mobile application with camera and file system integration | React Native, Expo, Supabase |
-| [**sale_agent**](https://github.com/noelmakubi/sale_agent) | Intelligent autonomous AI sales assistant that finds and qualifies potential customers | Python, OpenAI, Playwright, Redis |
-| [**PayPesa**](https://github.com/noelmakubi/PayPesa) | Payment gateway for Tanzania mobile money (M-Pesa, Airtel Money) | Node.js, Snippe.sh, JWT |
-| [**swahili-Chatbot-RuleBased**](https://github.com/noelmakubi/swahili-Chatbot-RuleBased) | Rule-based Swahili chatbot using NLP and similarity matching | Python, NLTK |
+| [**Midas_sales_agents**](https://github.com/noelmakubi/sale_agent) | Intelligent autonomous AI sales assistant that finds and qualifies potential customers | Python, OpenAI, Playwright, Redis |
+| [**PayPesa**](https://github.com/noelmakubi/PayPesa) | Payment gateway for Tanzania mobile money (M-Pesa, Airtel Money, Mixx By Yas) | Node.js, Snippe.sh, JWT |
 | [**Django_Pos**](https://github.com/noelmakubi/Django_Pos) | Web-based point-of-sale system | Django, Python |
 
 ---
@@ -129,7 +128,7 @@ Dedicated software developer with a passion for building innovative web applicat
 ## Currently
 
 - **Building:** Mobile applications with React Native and Expo
-- **Building:** Web backends with Laravel and FastAPI
+- **Building:** Web backends with Laravel, FastAPI and DRF
 - **Exploring:** AI/ML integration in web and mobile solutions
 - **Open to:** Collaboration on open-source projects
 - **Available for:** Software development opportunities
@@ -140,8 +139,6 @@ Dedicated software developer with a passion for building innovative web applicat
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noel-makubi-2127911aa/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NoelMakubi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noelmakubi)
 
 </div>
