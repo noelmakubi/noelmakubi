@@ -2,7 +2,7 @@
 
 ### Hi, I'm Noel Makubi <img src="https://raw.githubusercontent.com/kaieinl/kaieinl/main/wave.gif" width="30">
 
-<img src="https://readme-typing-svg.herokuapp.com/demo?font=Fira+Code&duration=3000&color=0077B5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer;Mobile+%26+Web+Applications;AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&color=0077B5&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Developer;Mobile+%26+Web+Applications;AI+Solutions" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noel-makubi-2127911aa/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/NoelMakubi)
