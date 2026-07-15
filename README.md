@@ -90,18 +90,6 @@ Dedicated software developer with a passion for building innovative web applicat
 
 ---
 
-## Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=noelmakubi&theme=radical&no-frame=true&column=7&margin-w=15" alt="Trophies"/>
-</a>
-
-</div>
-
----
-
 ## Activity Graph
 
 <div align="center">
