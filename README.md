@@ -32,8 +32,6 @@ Dedicated software developer with a passion for building innovative web applicat
 <summary><b>Tech Stack</b></summary>
 <br>
 
-<div align="center">
-
 **Languages**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -78,7 +76,6 @@ Dedicated software developer with a passion for building innovative web applicat
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali%20linux&logoColor=white)
 
-</div>
 </details>
 
 ---
