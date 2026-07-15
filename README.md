@@ -90,7 +90,7 @@ Dedicated software developer with a passion for building innovative web applicat
 | :robot: | [**Midas_sales_agents**](https://github.com/noelmakubi/sale_agent) | Intelligent autonomous AI sales assistant that finds and qualifies potential customers | Python, OpenAI, Playwright, Redis |
 | :credit_card: | [**PayPesa**](https://github.com/noelmakubi/PayPesa) | Payment gateway for Tanzania mobile money (M-Pesa, Airtel Money, Mixx By Yas) | Node.js, Snippe.sh, JWT |
 | :desktop_computer: | [**Django_Pos**](https://github.com/noelmakubi/Django_Pos) | Web-based point-of-sale system | Django, Python |
-| :money_with_wings: | [**PesaCoach**](https://github.com/noelmakubi/PesaCoach) | Financial assistant web application for coaching and payment management | HTML, CSS, JavaScript |
+| :money_with_wings: | [**PesaCoach**](https://github.com/noelmakubi/PesaCoach) | Financial assistant Mobile application for coaching and Personal Development | React Native |
 
 </details>
 
