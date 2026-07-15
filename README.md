@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50%">
+<td>
 
 ### Hi, I'm Noel Makubi <img src="https://raw.githubusercontent.com/kaieinl/kaieinl/main/wave.gif" width="30">
 
@@ -12,9 +12,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/noelmakubi)
 
 </td>
-<td width="50%" align="right">
+<td>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="350" alt="Snake animation"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="280"/>
 
 </td>
 </tr>
