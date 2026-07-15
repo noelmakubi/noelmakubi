@@ -6,7 +6,7 @@
 
 ## About Me
 
-Dedicated software developer with a passion for building innovative web applications and AI-powered solutions. My coding journey began in 2019, and I have since developed expertise in full-stack development and machine learning implementations.
+Dedicated software developer with a passion for building innovative web applications and AI-powered solutions. My coding journey began in 2022, and I have since developed expertise in full-stack development and machine learning implementations.
 
 - **Specialization:** Robust web applications and AI solutions
 - **Education:** Information System Management
@@ -31,6 +31,8 @@ Dedicated software developer with a passion for building innovative web applicat
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
 
@@ -82,7 +84,7 @@ Dedicated software developer with a passion for building innovative web applicat
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=noelmakubi&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=noelmakubi&theme=darkhub&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -110,8 +112,8 @@ Dedicated software developer with a passion for building innovative web applicat
 
 ## Currently
 
-- **Learning:** Exploring new technologies and frameworks
-- **Building:** Innovative web applications and AI solutions
+- **Building:** Web applications with Laravel and FastAPI
+- **Exploring:** AI/ML integration in web solutions
 - **Open to:** Collaboration on open-source projects
 - **Available for:** Software development opportunities
 
