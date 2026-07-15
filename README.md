@@ -1,6 +1,14 @@
-# Noel Makubi
+<div align="center">
 
-### Software Developer | Web Applications & AI Solutions
+<a href="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Noel+Makubi&fontSize=80&fontColor=ffffff&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Noel+Makubi&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Banner" width="100%"/>
+</a>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;Building+Apps+%26+AI+Solutions;Laravel+%7C+FastAPI+%7C+React+Native&center=true&width=600&height=100&color=36BCF7&vCenter=true&size=22&duration=3000&pause=1000&repeat=true" alt="Typing SVG" width="600"/>
+</a>
+
+</div>
 
 ---
 
@@ -15,55 +23,58 @@ Dedicated software developer with a passion for building innovative web applicat
 
 ---
 
-## Tech Stack
+<details>
+<summary><b>Tech Stack (click to expand)</b></summary>
 
 <div align="center">
 
 ### Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
+[![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
+[![Dart](https://skillicons.dev/icons?i=dart&theme=dark)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
 
 ### Frontend & Backend
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![React Native](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+[![Expo](https://skillicons.dev/icons?i=expo&theme=dark)](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://skillicons.dev)
+[![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://skillicons.dev)
+[![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)](https://skillicons.dev)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://skillicons.dev)
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
+[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis&theme=dark)](https://skillicons.dev)
 
 ### AI & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)](https://skillicons.dev)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
 ### DevOps & Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 
 ### Tools
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali%20linux&logoColor=white)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 
 </div>
+
+</details>
 
 ---
 
