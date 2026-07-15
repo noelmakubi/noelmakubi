@@ -63,21 +63,6 @@ Dedicated software developer with a passion for building innovative web applicat
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/noelmakubi">
-<img src="https://github-readme-stats.vercel.app/api?username=noelmakubi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-</a>
-<a href="https://github.com/noelmakubi">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelmakubi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</a>
-
-</div>
-
----
-
 ## GitHub Streak
 
 <div align="center">
