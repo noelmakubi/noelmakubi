@@ -86,7 +86,7 @@ Dedicated software developer with a passion for building innovative web applicat
 
 | | Project | Description | Technologies |
 |---|---------|-------------|--------------|
-| :iphone: | [**PesaPos**](https://github.com/noelmakubi/PesaPosApp) | Point-of-sale mobile application with camera and file system integration | React Native, Expo, Supabase |
+| :iphone: | [**DukaPro**](https://github.com/noelmakubi/PesaPosApp) | Point-of-sale mobile application with camera and file system integration | React Native, Expo, Supabase |
 | :robot: | [**Midas_sales_agents**](https://github.com/noelmakubi/sale_agent) | Intelligent autonomous AI sales assistant that finds and qualifies potential customers | Python, OpenAI, Playwright, Redis |
 | :credit_card: | [**PayPesa**](https://github.com/noelmakubi/PayPesa) | Payment gateway for Tanzania mobile money (M-Pesa, Airtel Money, Mixx By Yas) | Node.js, Snippe.sh, JWT |
 | :desktop_computer: | [**Django_Pos**](https://github.com/noelmakubi/Django_Pos) | Web-based point-of-sale system | Django, Python |
